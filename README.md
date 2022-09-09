@@ -5,7 +5,7 @@
     <img height="150em" align="top" src="https://github-readme-stats.vercel.app/api?username=brunoconcli&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/brunoconcli/brunoconcli">
-    <img height="120em" align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=brunoconcli&repo=brunoconcli&theme=ocean_dark" />
+    <img height="150em" align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=brunoconcli&repo=brunoconcli&theme=ocean_dark" />
   </a>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoconcli&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
