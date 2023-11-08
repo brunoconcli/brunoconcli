@@ -14,7 +14,7 @@ Brazilian, fluent in english and constantly learning! 📖✏️
 
 <br>
 <div>
-<a href="https://www.linkedin.com/in/bruno-silva-concli-20043b252/#gh-dark-mode-only">
+<a href="https://www.linkedin.com/in/brunoconcli/#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin">
 </a>
 <a href="https://twitter.com/brunosconcli/#gh-dark-mode-only">
