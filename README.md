@@ -5,7 +5,7 @@ Brazilian, fluent in english and constantly learning! 🇧🇷📖✏️
 
 <div align="center"> 
 <a href="https://github.com/brunoconcli/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoconcli&layout=compact&langs_count=12&hide_border=false&role=owner,collaborator&theme=radical&bg_color=020203#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoconcli&layout=compact&langs_count=12&hide_border=false&role=owner,collaborator&theme=radical&bg_color=020203#gh-dark-mode-only" alt="Bruno Concli's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunoconcli&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=radical&bg_color=020203#gh-dark-mode-only" alt="Bruno Concli's Github stats" />
