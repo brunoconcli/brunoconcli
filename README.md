@@ -1,7 +1,7 @@
 ## <b>Good evening! I'm Bruno Concli and be very welcome to my page!</b>
 ### <i>Enjoy your visit</i>
-Recently graduated at Cotuca - SP, currently entering the Software Development market, focusing on web and backend development 🖥️⌨️ <br>
-Brazilian, fluent in english and constantly learning! 🇧🇷📖✏️
+Graduating at Cotuca - SP, web and backend development 🖥️ <br>
+Constantly learning! 📖✏️
 
 <div align="center"> 
 <a href="https://github.com/brunoconcli/github-readme-stats#gh-dark-mode-only">
