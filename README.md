@@ -1,7 +1,7 @@
-## <b>Good evening! I'm Bruno Concli and be very welcome to my page!</b>
-### <i>Enjoy your visit</i>
-Graduating at Cotuca - SP, web and backend development 🖥️ <br>
-Constantly learning! 📖✏️
+## <b>Olá! I'm Bruno Concli and be very welcome to my page</b>
+### Feel free to check the lunatic stuff
+Graduating at Cotuca, Technical School - Campinas, SP | front and backend development 🖥️ <br>
+Graduating at Unesp, University - Rio Claro, SP | bachelor's degree in Computer Science 💾 <br>
 
 <div align="center"> 
 <a href="https://github.com/brunoconcli/github-readme-stats#gh-dark-mode-only">
@@ -16,8 +16,5 @@ Constantly learning! 📖✏️
 <div>
 <a href="https://www.linkedin.com/in/brunoconcli/#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin">
-</a>
-<a href="https://twitter.com/brunosconcli/#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=3572A5A#gh-dark-mode-only" alt="Follow me on Twitter" margin-left="100px">
-</a>  
+</a> 
 </div>
