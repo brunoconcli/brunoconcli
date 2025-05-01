@@ -1,14 +1,17 @@
 ## Olá! 
-i'm Bruno. be very welcome!</b>
+i'm Bruno. be very welcome!<br>
+feel free to check the lunatic stuff.. 🦤
 
 **Academic** <br>
 > Graduating at Cotuca, Technical School - system development at Campinas, Sao Paulo <br>
 > Graduating at Unesp, University - bachelor's degree in Computer Science at Rio Claro, Sao Paulo <br>
 
-**Market** <br>
+**Career** <br>
 > DevOps internship at Becomex Consulting Ltda.
 
-feel free to check the lunatic stuff.. 🦤
+**Donate:** Causes worth supporting<br>
+> [Unicef](https://www.unicef.org/): Fund to help kids in vulnerable situation <br>
+> [WWF](https://wwf.org/): Fund to protect wildlife worldwide
 
 <br>
 <div>
