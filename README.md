@@ -11,7 +11,8 @@ feel free to check the lunatic stuff.. 🦤
 
 **Donate:** Causes worth supporting<br>
 > [Unicef](https://www.unicef.org/): Fund to help kids in vulnerable situation <br>
-> [WWF](https://wwf.org/): Fund to protect wildlife worldwide
+> [WWF](https://wwf.org/): Fund to protect wildlife worldwide <br>
+> [FarmKind](https://www.farmkind.giving/donate): Make farming kinder
 
 <br>
 <div>
