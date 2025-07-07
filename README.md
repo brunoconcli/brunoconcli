@@ -7,7 +7,8 @@ feel free to check the lunatic stuff.. 🦤
 > Graduating at Unesp, University - bachelor's degree in Computer Science at Rio Claro, Sao Paulo <br>
 
 **Career** <br>
-> DevOps internship at Becomex Consulting Ltda.
+> DevOps internship at Becomex Consulting Ltda. <br>
+> Junior Developper at Becomex Consulting Ltda.
 
 **Donate:** Causes worth supporting<br>
 > [Unicef](https://www.unicef.org/): Fund to help kids in vulnerable situation <br>
